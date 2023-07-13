@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main {
+public class main_2_dz {
 
     public static void main(String[] args) {
 
@@ -49,5 +49,7 @@ public class main {
             default: System.out.println("Это плохой знак!!!");
                 break;
         }
+
     }
+
 }
