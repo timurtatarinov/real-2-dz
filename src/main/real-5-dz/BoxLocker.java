@@ -1,7 +1,3 @@
-import javafx.util.Builder;
-
-import java.util.Objects;
-
 public class BoxLocker {
 
     private int lenght; //sm

@@ -13,9 +13,7 @@ public class Human {
 
     public String getName() { return name; }
 
-    public int getAge() {
-        return age;
-    }
+    public int getAge() { return age; }
 
     public void tell(){
 
