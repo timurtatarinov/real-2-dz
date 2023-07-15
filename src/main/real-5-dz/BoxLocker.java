@@ -10,22 +10,6 @@ public class BoxLocker {
     private int cost;   //₴
     private String color;
 
-    /*public int getLenght() {
-        return lenght;
-    }
-    public int getWidth() {
-        return width;
-    }
-    public int getHeight() {
-        return height;
-    }
-    public int getCost() {
-        return cost;
-    }
-    public String getColor() {
-        return color;
-    }*/
-
     public static class Builder {
         private BoxLocker boxLocker;
 
